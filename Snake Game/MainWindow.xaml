@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Snake_Game"
         mc:Ignorable="d"
         Title="Gek/snake Game - Score = 0" SizeToContent="WidthAndHeight" ContentRendered="Window_ContentRendered">
-    <Border BorderBrush="Black" BorderThickness="30">
+    <Border BorderBrush="Violet" BorderThickness="30">
         <Canvas Name="GameArea" ClipToBounds="True" Height="400" Width="500"></Canvas>
     </Border>
 </Window>
